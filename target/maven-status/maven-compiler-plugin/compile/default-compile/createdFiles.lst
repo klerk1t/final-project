@@ -1,2 +1,4 @@
 com\app\controller\filters\EncodingFilter.class
+com\app\model\entity\enums\Role.class
 com\app\controller\Servlet.class
+com\app\model\entity\User.class
